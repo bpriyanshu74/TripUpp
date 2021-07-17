@@ -1,0 +1,31 @@
+body{
+  overflow-x: hidden;
+}
+.centere{
+  margin-left: 11rem;
+}
+#signin{
+  margin-left:15rem;
+}
+#img1{
+  border-radius: 20px;
+}
+.fa-user-friends,.fa-hand-holding-usd{
+  border-radius: 2rem;
+}
+.fa-wine-bottle{
+  border-radius: 3rem;
+}
+#img8{
+  width:90%;
+  height:105vh;
+  align-self: center;
+  border-radius: 1rem;
+}
+#img9{
+  border-radius: 1rem;
+}
+#img10{
+  border-radius: 1rem;
+}
+
